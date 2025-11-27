@@ -4,4 +4,8 @@ body{
 }
 header{
    border-bottom: solid 2px rgb(rgb(23, 5, 38));
+   padding: 20px;
+   font-size: 32px;
+   color: rgb(rgb(134, 77, 234));
+   background: black;
 }
