@@ -9,3 +9,8 @@ header{
    color: rgb(rgb(134, 77, 234));
    background: rgb(156, 105, 232);
 }
+.chamada{
+   background: rgb(181, 5, 20);
+   padding-bottom: 100px;
+   padding-top: 100px;
+}
